@@ -18,16 +18,27 @@ Accompanied by training and evaluation scripts.
 Provides a Jupyter Notebook for detailed analysis and visualization.
 Requirements
 Python 3.x
+
 TensorFlow
+
 Keras
+
 Pandas
+
 NumPy
+
 NLTK (Natural Language Toolkit)
+
 Installation
+
 Clone the repository:
+
 bash
+
 Copy code
+
 git clone https://github.com/Utkarsh-152/Fake-news-Classifier
+
 Install dependencies:
 
 
