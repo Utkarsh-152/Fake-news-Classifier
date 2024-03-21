@@ -4,9 +4,11 @@ This project implements a Fake News Classifier using Long Short-Term Memory (LST
 
 
 
+
 Overview
 
 In an era of information overload, distinguishing between authentic and fabricated news has become increasingly challenging. This project addresses this issue by leveraging deep learning techniques to automatically classify news articles as fake or real.
+
 
 
 
@@ -43,6 +45,7 @@ Install dependencies:
 
 
 
+
 Usage
 
 Prepare your dataset or utilize the provided sample dataset.
@@ -53,9 +56,13 @@ Use the provided Jupyter Notebook for further analysis, visualization, and exper
 Dataset
 The dataset used in this project can be found at https://www.kaggle.com/c/fake-news/data#. It consists of labeled news articles, with each article labeled as either fake or real.
 
+
+
+
 Contributing
 
 Contributions are welcome! Please feel free to open issues or submit pull requests.
+
 
 
 
