@@ -25,11 +25,7 @@ NumPy
 NLTK (Natural Language Toolkit)
 Installation
 Clone the repository:
-
-
-
 bash
-
 Copy code
 git clone https://github.com/Utkarsh-152/Fake-news-Classifier
 Install dependencies:
