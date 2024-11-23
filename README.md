@@ -62,11 +62,3 @@ The dataset used in this project can be found at https://www.kaggle.com/c/fake-n
 Contributing
 
 Contributions are welcome! Please feel free to open issues or submit pull requests.
-
-
-
-
-Acknowledgments
-
-Special thanks to https://www.linkedin.com/in/naikkrish/?originalSubdomain=in for their guidance and support.
-Feel free to customize this template according to your project's specific details and requirements. 
